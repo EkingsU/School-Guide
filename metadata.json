@@ -1,0 +1,6 @@
+{
+  "name": "School Guide - Educational & Career Guidance",
+  "description": "Comprehensive educational and career guidance platform tailored for secondary, high school, and vocational students in Cameroon across Grammar, Technical, and Commercial streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
